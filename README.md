@@ -22,6 +22,5 @@
 ---
 
 ## 📫 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil)  
-- 🐙 [GitHub](https://github.com/seuuser)  
-- ✉️ **seuemail@dominio.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/nayra-rocha/)   
+- ✉️ **rochanayra64@gmail.com**
